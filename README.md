@@ -3,9 +3,14 @@
 
 
 http://www.bttr-software.de/freesoft/
+
 https://www.uwe-sieber.de/english.html
+
 http://mpxplay.sourceforge.net/
+
+
 http://dosprograms.info.tt/utils.htm
+
 https://archive.org/details/softwarelibrary_msdos
 
 http://www.reimagery.com/fsfd/#siteidx
@@ -13,4 +18,13 @@ http://www.reimagery.com/fsfd/#siteidx
 
 ## Audio
 
+http://www.reimagery.com/fsfd/sound.htm#midiplayers
+
 https://www.cubic.org/player/download.html
+
+
+## Alternatives
+
+Doskey
+
+Edit 
