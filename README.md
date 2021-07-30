@@ -25,6 +25,6 @@ https://www.cubic.org/player/download.html
 
 ## Alternatives
 
-Doskey
+Enhanced Doskey http://www.paulhoule.com/doskey/
 
 Edit 
