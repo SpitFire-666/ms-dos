@@ -32,3 +32,7 @@ Edit
 
 
 ## Prompt
+
+# Hardware
+
+https://monotech.fwscart.com/XTCFMini_Bootable_8bit_ISA_CF_Card_Interface/p6083514_19478750.aspx
