@@ -9,6 +9,10 @@ https://www.uwe-sieber.de/english.html
 
 http://mpxplay.sourceforge.net/
 
+https://www.4dos.info/dalter.htm
+
+http://www.resoo.org/docs/dos/free_software/fileman1.htm
+
 
 http://dosprograms.info.tt/utils.htm
 
