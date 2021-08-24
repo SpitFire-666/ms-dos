@@ -1,7 +1,39 @@
 <img src="https://user-images.githubusercontent.com/38451588/127482226-e67f4267-7245-4e89-8b6c-4aec09c49c5a.png" width="200" />
 
+Arachne web browser:
+
+http://www.glennmcc.org/
 
 
+https://dosprograms.info.tt/links.htm
+
+COSTA graphical shell:
+
+https://github.com/jacobpalm/costa
+
+
+
+http://www.sysinfolab.com/index.htm
+
+http://reimagery.com/fsfd/#siteidx
+
+https://www.danielsays.com/ssg-dos.html
+
+https://www.danielsays.com/ssg-dos-mace1.html
+
+https://www.danielsays.com/ssg-dos-fs.html
+
+https://www.vcfed.org/forum/forum/genres/pcs-and-clones/15399-ms-word-5-5-for-dos-for-free-legally?15238-MS-Word-5-5-for-DOS-for-FREE-(legally)=
+
+https://www.fltk.org/index.php
+
+
+
+http://www.doshaven.eu/released/2007/
+
+
+
+https://archive.org/details/softwarelibrary_msdos_texteditors
 
 http://www.bttr-software.de/freesoft/
 
@@ -19,6 +51,12 @@ http://dosprograms.info.tt/utils.htm
 https://archive.org/details/softwarelibrary_msdos
 
 http://www.reimagery.com/fsfd/#siteidx
+
+### System info
+
+#### CPU
+
+CHKCPU
 
 
 ## Audio
