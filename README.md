@@ -58,6 +58,9 @@ http://www.reimagery.com/fsfd/#siteidx
 
 CHKCPU
 
+### Screen Utils
+
+UltraVision https://www.4dos.info/tools/uv212.zip
 
 ## Audio
 
@@ -65,13 +68,53 @@ http://www.reimagery.com/fsfd/sound.htm#midiplayers
 
 https://www.cubic.org/player/download.html
 
+## GUIs
+
+OpenGEM
+
+![image](https://user-images.githubusercontent.com/38451588/131199150-ce5e09fe-b31c-4d9e-8d96-386a65208200.png)
+
 
 ## Alternatives
 
 Enhanced Doskey http://www.paulhoule.com/doskey/
 
-Edit 
+Edit http://wiki.freedos.org/wiki/index.php/Edit
 
+http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/dn2.html
+
+http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/doszip.html
+
+http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/fdshell.html
+
+http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/fdtui.html
+
+http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/paint2.html
+
+http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/pgme.html
+
+http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/group-edit.html
+
+http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/ewsnake.html
+
+http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/flpybird.html
+
+http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/vertigo.html
+
+http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/group-gui.html
+
+http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/cal.html
+
+http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/du.html
+
+https://sourceforge.net/projects/dog/
+
+http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/foxcalc.html
+
+http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/pdtree.html
+
+
+https://github.com/Baron-von-Riedesel/Jemm
 
 ## Prompt
 
