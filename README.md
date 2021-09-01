@@ -170,4 +170,34 @@ Ontrack Disk Manager
 
 XTree Gold was cool, but these days I use Volkov Commander.
  Electronics Workbench
+ 
+ 
+ https://www.vogons.org/viewtopic.php?f=63&t=58922
+ 
+ 
+### GAMES
+
+Wings of Fury
+Paganitzu 
+ Pinball Night Mission
+ http://www.mobygames.com/game/mach-3/
+ https://en.wikipedia.org/wiki/PopCorn_%28video_game%29
+ 
+    Colorado, Targhan, Starblade, Metal Mutant - all great 2D games from French developer Silmarils. They all work on both CGA and Hercules.
+    North & South - ton of fun and local multiplayer possible. CGA & HGC both.
+    Prince of Persia - timeless classic. Native CGA and Hercules support.
+    Prehistoric - tough as nails, but I have a soft spot for it. Native CGA and Hercules support.
+    BlockOut - 3D Tetris clone. Not that great today, but played a hell out of it as a kid. Native CGA and Hercules support.
+    Budokan - nostalgia factor mostly for me, but still can be enjoyable in small doses. Native CGA and Hercules support.
+    Digger - quick, fun, works via SimCGA (you have to jump through a few hoops) on Herc.
+    Sokoban - did not like it too much as a kid, but appreciate logic games more now. Native CGA and Hercules support.
+    
+    Korean Dungeon Boy
+    
+    Street rod
+    
+    Arctic Fox
+    
+    OutRun
+    
 
