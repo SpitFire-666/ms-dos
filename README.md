@@ -77,9 +77,9 @@ OpenGEM
 
 ## Alternatives
 
-Enhanced Doskey http://www.paulhoule.com/doskey/
+DOSKEY: Enhanced Doskey http://www.paulhoule.com/doskey/
 
-Edit http://wiki.freedos.org/wiki/index.php/Edit
+EDIT: Edit http://wiki.freedos.org/wiki/index.php/Edit
 
 http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/dn2.html
 
@@ -125,16 +125,44 @@ https://github.com/Baron-von-Riedesel/Jemm
 https://monotech.fwscart.com/XTCFMini_Bootable_8bit_ISA_CF_Card_Interface/p6083514_19478750.aspx
 
 
-TheDraw/AcidDraw, PC Tools, CPBackup, Autodesk Animator, VPIC, QPEG, E3 text editor, QText, EinsteinWriter, Scream Tracker 2/3, Impulse Tracker, Blaster Master 16, TeleMate, Terminate, BlueWave, DESQview...
 
-DOS Navigator 1.51. For some reason it's floppy formatter, forced with sector optimization, makes readable floppies when the windows one fails on the same drive. The technical reason for this is unknown to me.
+# Applications
 
- SEA. Image viewer for DOS with support for high resolution video modes.
+TheDraw/AcidDraw
+
+PC Tools, 
+CPBackup, 
+Autodesk Animator,
+VPIC, 
+QPEG, 
+E3 text editor, 
+QText, 
+EinsteinWriter, 
+Scream Tracker 2/3, 
+Impulse Tracker, 
+Blaster Master 16, 
+TeleMate, 
+Terminate, 
+BlueWave, 
+DESQview...
+
+DOS Navigator 
+
+SEA. Image viewer for DOS with support for high resolution video modes.
  
- in DOS I use all the time LIST, Necromancer's DOS Navigator, ems/xmsdsk, mfplay, pkzip, mTCP (not so retro but yeah) and ofcourse the cd-emulation programs fakecd/fakedr so I don't have to mess with disks...
+LIST
+
+, Necromancer's DOS Navigator, 
+ems/xmsdsk, 
+mfplay, 
+pkzip, 
+mTCP (not so retro but yeah) and ofcourse the 
+
+cd-emulation programs fakecd/fakedr so I don't have to mess with disks...
  
  
- Graphics, Pictures, and Publishing
+ 
+### Graphics, Pictures, and Publishing
 Micrografx Designer (poor man's CorelDraw, but even better IMHO)
 Paint Shop Pro (poor man's Photoshop, well sorta..😁)
 ACDSee
@@ -142,14 +170,14 @@ Sea Graphics Viewer (DOS iamge viewer)
 QPEG-386 (DOS image viewer, VESA support)
 PrintMaster and BannerMania (kind of a very basic publishing programs (banners, greeting cards, etc.)
 
-Office:
+### Office:
 PFS Professional Write Plus (DOS word processor)
 Microsoft Word 2.0
 Microsoft Excel 3.0
 Recognita Select (OCR)
 (Though, I also used Ami Pro and Quatro Pro, from time to time)
 
-Engineering:
+### Engineering:
 AutoCAD 12 (DOS and Windows 3.1)
 Easyplot
 Matlab 3.5 SE
@@ -157,7 +185,7 @@ Mathcad 6
 Lahey FORTRAN
 QuickBasic
 
-Utilities:
+### Utilities:
 Stacker
 Colorado Backup
 QEMM
@@ -186,14 +214,22 @@ Paganitzu
  Pinball Night Mission
  http://www.mobygames.com/game/mach-3/
  https://en.wikipedia.org/wiki/PopCorn_%28video_game%29
- 
-    Colorado, Targhan, Starblade, Metal Mutant - all great 2D games from French developer Silmarils. They all work on both CGA and Hercules.
-    North & South - ton of fun and local multiplayer possible. CGA & HGC both.
-    Prince of Persia - timeless classic. Native CGA and Hercules support.
-    Prehistoric - tough as nails, but I have a soft spot for it. Native CGA and Hercules support.
+Colorado, 
+Targhan,
+
+Starblade, 
+
+- Metal Mutant - all great 2D games from French developer Silmarils. They all work on both CGA and Hercules
+- North & South - ton of fun and local multiplayer possible. CGA & HGC both.
+- Prince of Persia - timeless classic. Native CGA and Hercules support.
+- Prehistoric - tough as nails, but I have a soft spot for it. Native CGA and Hercules support.
+    
     BlockOut - 3D Tetris clone. Not that great today, but played a hell out of it as a kid. Native CGA and Hercules support.
+    
     Budokan - nostalgia factor mostly for me, but still can be enjoyable in small doses. Native CGA and Hercules support.
+    
     Digger - quick, fun, works via SimCGA (you have to jump through a few hoops) on Herc.
+    
     Sokoban - did not like it too much as a kid, but appreciate logic games more now. Native CGA and Hercules support.
     
     Korean Dungeon Boy
