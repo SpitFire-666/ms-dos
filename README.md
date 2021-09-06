@@ -75,6 +75,14 @@ OpenGEM
 ![image](https://user-images.githubusercontent.com/38451588/131199150-ce5e09fe-b31c-4d9e-8d96-386a65208200.png)
 
 
+## Menus
+
+https://forums.launchbox-app.com/files/file/934-launchbox-for-ms-dos-special-edition/
+
+https://github.com/alespergl/slr/releases/tag/v0.1
+
+
+
 ## Alternatives
 
 DOSKEY: Enhanced Doskey http://www.paulhoule.com/doskey/
@@ -160,7 +168,9 @@ mTCP (not so retro but yeah) and ofcourse the
 
 cd-emulation programs fakecd/fakedr so I don't have to mess with disks...
  
- 
+https://github.com/microsoft/GW-BASIC
+
+https://www.vogons.org/viewtopic.php?f=24&t=63514
  
 ### Graphics, Pictures, and Publishing
 Micrografx Designer (poor man's CorelDraw, but even better IMHO)
