@@ -160,7 +160,7 @@ SEA. Image viewer for DOS with support for high resolution video modes.
  
 LIST
 
-, Necromancer's DOS Navigator, 
+Necromancer's DOS Navigator, 
 ems/xmsdsk, 
 mfplay, 
 pkzip, 
@@ -213,8 +213,9 @@ XTree Gold was cool, but these days I use Volkov Commander.
  https://www.vogons.org/viewtopic.php?f=63&t=58922
  
  
-### GAMES
+## GAMES
 
+https://github.com/viti95/FastDoom
 
 https://www.vogons.org/viewtopic.php?f=61&t=61035&hilit=t3100&start=160
 The Catacomb Abyss 3D
@@ -250,4 +251,16 @@ Starblade,
     
     OutRun
     
+ California Games
+ Pinball Dreams
+ 
+## QBasic
+
+https://www.youtube.com/watch?v=sqy7Xfklo7w
+
+https://forum.thegamecreators.com/thread/222397
+
+http://www.petesqbsite.com/downloads/graphics.shtml
+
+https://www.tapatalk.com/groups/qbasic/download-qb64-demo-5-now-t36498.html
 
