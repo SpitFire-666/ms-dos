@@ -5,6 +5,8 @@ Arachne web browser:
 http://www.glennmcc.org/
 
 
+https://www.youtube.com/watch?v=iObKua8bdr8
+
 https://dosprograms.info.tt/links.htm
 
 COSTA graphical shell:
@@ -12,6 +14,8 @@ COSTA graphical shell:
 https://github.com/jacobpalm/costa
 
 
+
+https://winworldpc.com/library/applications/platform-dos
 
 http://www.sysinfolab.com/index.htm
 
