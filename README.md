@@ -1,23 +1,5 @@
 <img src="https://user-images.githubusercontent.com/38451588/127482226-e67f4267-7245-4e89-8b6c-4aec09c49c5a.png" width="200" />
 
-Arachne web browser:
-
-http://www.glennmcc.org/
-
-
-https://www.youtube.com/watch?v=iObKua8bdr8
-
-https://dosprograms.info.tt/links.htm
-
-COSTA graphical shell:
-
-https://github.com/jacobpalm/costa
-
-
-
-https://winworldpc.com/library/applications/platform-dos
-
-http://www.sysinfolab.com/index.htm
 
 http://reimagery.com/fsfd/#siteidx
 
@@ -210,11 +192,37 @@ DiskCopyFast
 F-Prot
 Ontrack Disk Manager
 
-XTree Gold was cool, but these days I use Volkov Commander.
- Electronics Workbench
+XTree Gold
+
+Volkov Commander.
+
+lectronics Workbench
  
  
  https://www.vogons.org/viewtopic.php?f=63&t=58922
+ 
+ 
+
+Arachne web browser:
+
+http://www.glennmcc.org/
+
+
+https://www.youtube.com/watch?v=iObKua8bdr8
+
+https://dosprograms.info.tt/links.htm
+
+COSTA graphical shell:
+
+https://github.com/jacobpalm/costa
+
+
+
+https://winworldpc.com/library/applications/platform-dos
+
+http://www.sysinfolab.com/index.htm
+
+ 
  
  
 ## GAMES
