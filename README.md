@@ -202,10 +202,10 @@ https://www.vogons.org/viewtopic.php?f=24&t=63514
 - DiskCopyFast
 - F-Prot
 - Ontrack Disk Manager
-
 - XTree Gold
 - Volkov Commander 
 - Electronics Workbench
+- TreeSize: http://www.cnd.org/HYPLAN/yawei/freesoft.html
  
  
  https://www.vogons.org/viewtopic.php?f=63&t=58922
