@@ -46,7 +46,7 @@ CHKCPU
 
 ### Screen Utils
 
-UltraVision https://www.4dos.info/tools/uv212.zip
+- UltraVision https://www.4dos.info/tools/uv212.zip
 
 ![image](https://user-images.githubusercontent.com/38451588/133178127-07499414-f1ad-4479-b9e8-80958b0a954f.png)
 
@@ -54,15 +54,19 @@ UltraVision https://www.4dos.info/tools/uv212.zip
 
 ## Audio
 
-http://www.reimagery.com/fsfd/sound.htm#midiplayers
+- http://www.reimagery.com/fsfd/sound.htm#midiplayers
 
-https://www.cubic.org/player/download.html
+- https://www.cubic.org/player/download.html
 
 ## GUIs
 
-OpenGEM
+- OpenGEM
 
 ![image](https://user-images.githubusercontent.com/38451588/131199150-ce5e09fe-b31c-4d9e-8d96-386a65208200.png)
+
+- COSTA graphical shell:
+
+https://github.com/jacobpalm/costa
 
 
 ## Menus
@@ -163,44 +167,43 @@ https://github.com/microsoft/GW-BASIC
 https://www.vogons.org/viewtopic.php?f=24&t=63514
  
 ### Graphics, Pictures, and Publishing
-Micrografx Designer (poor man's CorelDraw, but even better IMHO)
-Paint Shop Pro (poor man's Photoshop, well sorta..😁)
-ACDSee
-Sea Graphics Viewer (DOS iamge viewer)
-QPEG-386 (DOS image viewer, VESA support)
-PrintMaster and BannerMania (kind of a very basic publishing programs (banners, greeting cards, etc.)
+- Micrografx Designer (poor man's CorelDraw, but even better IMHO)
+- Paint Shop Pro (poor man's Photoshop, well sorta..😁)
+- ACDSee
+- Sea Graphics Viewer (DOS iamge viewer)
+- QPEG-386 (DOS image viewer, VESA support)
+- PrintMaster and BannerMania (kind of a very basic publishing programs (banners, greeting cards, etc.)
 
 ### Office:
-PFS Professional Write Plus (DOS word processor)
-Microsoft Word 2.0
-Microsoft Excel 3.0
-Recognita Select (OCR)
-(Though, I also used Ami Pro and Quatro Pro, from time to time)
+- PFS Professional Write Plus (DOS word processor)
+- Microsoft Word 2.0
+- Microsoft Excel 3.0
+- Recognita Select (OCR) 
+- Ami Pro
+- Quatro Pro, from time to time)
 
 ### Engineering:
-AutoCAD 12 (DOS and Windows 3.1)
-Easyplot
-Matlab 3.5 SE
-Mathcad 6
-Lahey FORTRAN
-QuickBasic
+- AutoCAD 12 (DOS and Windows 3.1)
+- Easyplot
+- Matlab 3.5 SE
+- Mathcad 6
+- Lahey FORTRAN
+- QuickBasic
 
 ### Utilities:
-Stacker
-Colorado Backup
-QEMM
-Norton Utilities
-Checkit Pro
-PCTools
-DiskCopyFast
-F-Prot
-Ontrack Disk Manager
+- Stacker
+- Colorado Backup
+- QEMM
+- Norton Utilities
+- Checkit Pro
+- PCTools
+- DiskCopyFast
+- F-Prot
+- Ontrack Disk Manager
 
-XTree Gold
-
-Volkov Commander.
-
-lectronics Workbench
+- XTree Gold
+- Volkov Commander 
+- Electronics Workbench
  
  
  https://www.vogons.org/viewtopic.php?f=63&t=58922
@@ -216,9 +219,6 @@ https://www.youtube.com/watch?v=iObKua8bdr8
 
 https://dosprograms.info.tt/links.htm
 
-COSTA graphical shell:
-
-https://github.com/jacobpalm/costa
 
 
 
@@ -231,44 +231,32 @@ http://www.sysinfolab.com/index.htm
  
 ## GAMES
 
-https://github.com/viti95/FastDoom
-
-https://www.vogons.org/viewtopic.php?f=61&t=61035&hilit=t3100&start=160
-The Catacomb Abyss 3D
-
-Wings of Fury
-Paganitzu 
- Pinball Night Mission
- http://www.mobygames.com/game/mach-3/
- https://en.wikipedia.org/wiki/PopCorn_%28video_game%29
-Colorado, 
-Targhan,
-
-Starblade, 
-
+- https://github.com/viti95/FastDoom
+- https://www.vogons.org/viewtopic.php?f=61&t=61035&hilit=t3100&start=160
+- The Catacomb Abyss 3D
+- LHX attack chopper
+- Wings of Fury
+- Paganitzu 
+- Pinball Night Mission
+- http://www.mobygames.com/game/mach-3/
+- https://en.wikipedia.org/wiki/PopCorn_%28video_game%29
+- Colorado, 
+- Targhan,
+- Starblade, 
 - Metal Mutant - all great 2D games from French developer Silmarils. They all work on both CGA and Hercules
 - North & South - ton of fun and local multiplayer possible. CGA & HGC both.
 - Prince of Persia - timeless classic. Native CGA and Hercules support.
 - Prehistoric - tough as nails, but I have a soft spot for it. Native CGA and Hercules support.
-    
-    BlockOut - 3D Tetris clone. Not that great today, but played a hell out of it as a kid. Native CGA and Hercules support.
-    
-    Budokan - nostalgia factor mostly for me, but still can be enjoyable in small doses. Native CGA and Hercules support.
-    
-    Digger - quick, fun, works via SimCGA (you have to jump through a few hoops) on Herc.
-    
-    Sokoban - did not like it too much as a kid, but appreciate logic games more now. Native CGA and Hercules support.
-    
-    Korean Dungeon Boy
-    
-    Street rod
-    
-    Arctic Fox
-    
-    OutRun
-    
- California Games
- Pinball Dreams
+- BlockOut - 3D Tetris clone. Not that great today, but played a hell out of it as a kid. Native CGA and Hercules support.
+- Budokan - nostalgia factor mostly for me, but still can be enjoyable in small doses. Native CGA and Hercules support.
+-  Digger - quick, fun, works via SimCGA (you have to jump through a few hoops) on Herc.
+- Sokoban - did not like it too much as a kid, but appreciate logic games more now. Native CGA and Hercules support.
+- Korean Dungeon Boy
+- Street rod
+- Arctic Fox
+- OutRun
+- California Games
+- Pinball Dreams
  
 ## QBasic
 
