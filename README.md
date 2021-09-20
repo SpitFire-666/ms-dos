@@ -118,7 +118,7 @@ http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/
 
 https://github.com/Baron-von-Riedesel/Jemm
 
-## Prompt
+## Command Prompt
 
 
 
@@ -130,25 +130,36 @@ https://monotech.fwscart.com/XTCFMini_Bootable_8bit_ISA_CF_Card_Interface/p60835
 
 http://cutemouse.sourceforge.net/
 
+
 # Applications
 
 TheDraw/AcidDraw
 
+https://www.youtube.com/watch?v=iObKua8bdr8
+
+https://dosprograms.info.tt/links.htm
+
+
+
+
+https://winworldpc.com/library/applications/platform-dos
+
+http://www.sysinfolab.com/index.htm
 PC Tools, 
 CPBackup, 
 Autodesk Animator,
 VPIC, 
 QPEG, 
-E3 text editor, 
-QText, 
-EinsteinWriter, 
-Scream Tracker 2/3, 
-Impulse Tracker, 
-Blaster Master 16, 
-TeleMate, 
-Terminate, 
-BlueWave, 
-DESQview...
+E3 text editor
+QText
+EinsteinWriter
+Scream Tracker 2/3
+Impulse Tracker
+Blaster Master 16
+TeleMate
+Terminate
+BlueWave
+DESQview
 
 DOS Navigator 
 
@@ -217,18 +228,7 @@ Arachne web browser:
 http://www.glennmcc.org/
 
 
-https://www.youtube.com/watch?v=iObKua8bdr8
 
-https://dosprograms.info.tt/links.htm
-
-
-
-
-https://winworldpc.com/library/applications/platform-dos
-
-http://www.sysinfolab.com/index.htm
-
- 
  
  
 ## GAMES
@@ -259,6 +259,7 @@ http://www.sysinfolab.com/index.htm
 - OutRun
 - California Games
 - Pinball Dreams
+- https://github.com/nanochess
  
 ## QBasic
 
