@@ -58,6 +58,9 @@ CHKCPU
 
 - https://www.cubic.org/player/download.html
 
+- https://www.vogons.org/viewtopic.php?f=24&t=37630
+
+
 ## GUIs
 
 - OpenGEM
@@ -165,7 +168,9 @@ DOS Navigator
 
 SEA. Image viewer for DOS with support for high resolution video modes.
  
-LIST
+Networking 
+
+https://github.com/AnttiTakala/SSH2DOS/
 
 Necromancer's DOS Navigator, 
 ems/xmsdsk, 
@@ -233,6 +238,7 @@ http://www.glennmcc.org/
  
 ## GAMES
 
+- http://www.pixelships.com/adg/
 - https://github.com/viti95/FastDoom
 - https://www.vogons.org/viewtopic.php?f=61&t=61035&hilit=t3100&start=160
 - The Catacomb Abyss 3D
@@ -260,6 +266,11 @@ http://www.glennmcc.org/
 - California Games
 - Pinball Dreams
 - https://github.com/nanochess
+- https://www.youtube.com/watch?v=TE6SkrEFcoI
+- https://www.youtube.com/c/dosnostalgic/videos
+
+## DEMOS
+https://www.dropbox.com/s/df1h2w2zapo2kpv/crystfix.zip?dl=0
  
 ## QBasic
 
