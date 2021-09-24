@@ -14,6 +14,14 @@ https://www.vcfed.org/forum/forum/genres/pcs-and-clones/15399-ms-word-5-5-for-do
 https://www.fltk.org/index.php
 
 
+https://github.com/zerokelvinkeyboard/tachyonos
+
+https://sourceforge.net/projects/michalos/
+
+ https://sourceforge.net/projects/zexos/
+ 
+ NewDeal Office 3.2a
+
 
 http://www.doshaven.eu/released/2007/
 
@@ -128,6 +136,9 @@ https://github.com/Baron-von-Riedesel/Jemm
 # Hardware
 
 https://monotech.fwscart.com/XTCFMini_Bootable_8bit_ISA_CF_Card_Interface/p6083514_19478750.aspx
+
+
+parallel-port, Ethernet-to-WiFi connectivity.
 
 ## 🐁 Mouse
 
