@@ -300,17 +300,36 @@ https://www.tapatalk.com/groups/qbasic/download-qb64-demo-5-now-t36498.html
 
 ## NETWORKING
 
-SETMTCPCFG=C:\LAN\CONFIG.CFG
+### Initialise NIC
+````
 C:\LAN\3C509.COM 0x60
+`````
 
-CONFIG.CFG:
+### mTCP Setup
+
+- Env vars
+````batch
+SETMTCPCFG=C:\LAN\CONFIG.CFG
+````
+
+-  CONFIG.CFG
+````
 PACKETINT 0x60
 IPADDR 192.168.1.99
 NETMASK 255.255.255.0
 GATEWAY 192.168.1.1
 NAMESERVER 192.168.1.2
+````
 
+- DHCP.EXE - Get an IP
+````
 DCHP.EXE
+````
+
+- HTTPSERV.EXE
+````
+HTTPSERV -
+````
 
 ### INTERNET 
 
