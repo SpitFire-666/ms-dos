@@ -177,9 +177,9 @@ DESQview
 
 DOS Navigator 
 
-SEA. Image viewer for DOS with support for high resolution video modes.
+
  
-Networking 
+## Networking 
 
 https://github.com/AnttiTakala/SSH2DOS/
 
@@ -199,8 +199,14 @@ https://www.vogons.org/viewtopic.php?f=24&t=63514
 - Micrografx Designer (poor man's CorelDraw, but even better IMHO)
 - Paint Shop Pro (poor man's Photoshop, well sorta..😁)
 - ACDSee
-- Sea Graphics Viewer (DOS iamge viewer)
+- Sea Graphics Viewer with support for high resolution video modes. http://www.dcee.net/Files/Graf/sea11gfx.zip
 - QPEG-386 (DOS image viewer, VESA support)
+- PictView http://www.pictview.com/pictview.zip
+- LxPic http://hplx.pgdn.de/lxpic.zip
+- ShowJPG http://www.pictview.com/showjpg.zip
+- PixView http://www.cs.unibo.it/~rossi/pixview/pixv23.zip
+- LWhiz ftp://ftp.sac.sk/sac/graph/lwhiz.zip
+- 
 - PrintMaster and BannerMania (kind of a very basic publishing programs (banners, greeting cards, etc.)
 
 ### Office:
