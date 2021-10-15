@@ -306,10 +306,30 @@ https://www.tapatalk.com/groups/qbasic/download-qb64-demo-5-now-t36498.html
 
 ## NETWORKING
 
+
+http://www.dendarii.co.uk/FAQs/dos-apps.html
+
+### SMB Networking
+
+http://www.jacco2.dds.nl/samba/dos.html
+
+https://wiki.samba.org/index.php/Configuring_FreeDOS_to_Access_a_Samba_Share
+
+http://www.toughdev.com/content/2018/06/using-microsoft-network-client-3-0-for-ms-dos-with-modern-versions-of-windows/
+
+
+
+
 ### Initialise NIC
 ````
 C:\LAN\3C509.COM 0x60
 `````
+
+NET.EXE - http://www.ka9q.net/code/ka9qnos/
+
+
+https://syncterm.bbsdev.net/ -  SyncTERM is a BBS terminal program 
+
 
 ### mTCP Setup
 
