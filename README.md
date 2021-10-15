@@ -131,6 +131,32 @@ https://github.com/Baron-von-Riedesel/Jemm
 
 ## Command Prompt
 
+- Load ANSI
+config.sys
+````
+  DEVICE = C:\DOS\ANSI.SYS
+  ````
+- Merry Christmas
+````
+prompt $e[1;5;37m  *$_$e[0;32;40m  1$_ $e[1;31;42m u $_$e[33;42m
+  x o $e[30;40m$e[K$_  _$_$e[31m MERRY$_CHRISTMAS!$_$e[37m$p$g
+````
+````
+prompt $e[1;32;40m  Z$_$e[33;43m   $e[40m$e[K$_$e[43m    $_
+  __ $e[37;40m$e[37;40m$e[K$_ BOO!$_$_$e[35m  $p$g$e[37m
+ ````
+ ````
+ prompt
+  $e[44;37;5m$e[16C$e[0;44;1;31m$_111$e[36m111$e[31m111$e[3
+  5m11 1\]$_$e[32;5mx x x x x x   x$e[0;1;44;37m$e[1A$p$g
+````
+
+
+https://kb.iu.edu/d/aamm
+
+## FONT
+
+FONTEDIT: https://www.uselesssoftware.com/download/fontedit-zip
 
 
 # Hardware
