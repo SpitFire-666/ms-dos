@@ -386,6 +386,11 @@ Hosts a web page, eg http://192.168.1.50/index.htm
 HTTPSERV -doc_root c:\lan
 ````
 
+- FTP
+
+Setup an FTP server, eg Xlight FTP Server
+
+
 ### INTERNET 
 
 https://github.com/tenox7/wrp
