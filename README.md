@@ -17,6 +17,8 @@ https://www.fltk.org/index.php
 https://winworldpc.com/product/pc-speaker-driver-wi/pc-speaker-driver-windows-31
 
 
+https://www.vogons.org/viewtopic.php?f=24&t=82258
+
 https://github.com/zerokelvinkeyboard/tachyonos
 
 https://sourceforge.net/projects/michalos/
