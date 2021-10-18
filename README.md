@@ -1,5 +1,6 @@
 <img src="https://user-images.githubusercontent.com/38451588/127482226-e67f4267-7245-4e89-8b6c-4aec09c49c5a.png" width="200" />
 
+https://www.vogons.org/viewtopic.php?f=24&t=82258
 
 http://reimagery.com/fsfd/#siteidx
 
@@ -13,12 +14,16 @@ https://www.vcfed.org/forum/forum/genres/pcs-and-clones/15399-ms-word-5-5-for-do
 
 https://www.fltk.org/index.php
 
+https://winworldpc.com/product/pc-speaker-driver-wi/pc-speaker-driver-windows-31
+
 
 https://github.com/zerokelvinkeyboard/tachyonos
 
 https://sourceforge.net/projects/michalos/
 
  https://sourceforge.net/projects/zexos/
+ 
+ https://www.mdgx.com/dos.htm#DOS
  
  NewDeal Office 3.2a
 
@@ -39,6 +44,7 @@ https://www.4dos.info/dalter.htm
 
 http://www.resoo.org/docs/dos/free_software/fileman1.htm
 
+http://ndn.muxe.com/
 
 http://dosprograms.info.tt/utils.htm
 
@@ -93,6 +99,8 @@ https://github.com/alespergl/slr/releases/tag/v0.1
 DOSKEY: Enhanced Doskey http://www.paulhoule.com/doskey/
 
 EDIT: Edit http://wiki.freedos.org/wiki/index.php/Edit
+
+MEM: http://wiki.freedos.org/wiki/index.php/Mem
 
 http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/dn2.html
 
