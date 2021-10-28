@@ -329,6 +329,8 @@ https://www.vogons.org/viewtopic.php?f=61&t=82495
 
 ## DEMOS
 https://www.dropbox.com/s/df1h2w2zapo2kpv/crystfix.zip?dl=0
+
+http://www.oldskool.org/demos/explained/demo_reviews.html
  
 ## QBasic
 
