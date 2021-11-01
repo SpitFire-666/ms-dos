@@ -76,6 +76,15 @@ CHKCPU
 
 - https://www.vogons.org/viewtopic.php?f=24&t=37630
 
+ MIDIplay - Play MIDI files through PC speaker.
+ 
+  SBPlay - SND, VOC, WAV, AIF, IFF, RAW sound files player – no sound card required | ftp://ftp.externet.hu/pub/mirror/sac/sound/sbply258.zip
+  
+   LxVox - Tiny WAV file player (8-bit mono), no sound card required. | http://hplx.pgdn.de/lxvox.zip
+   
+   
+   PlayWAV 1.0 Quick playing of WAV files  | http://www.dreamlandbbs.com/sound/utils/playwav.zip
+
 
 ## GUIs
 
