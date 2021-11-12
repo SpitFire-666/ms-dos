@@ -115,6 +115,9 @@ EDIT: Edit http://wiki.freedos.org/wiki/index.php/Edit
 
 MEM: http://wiki.freedos.org/wiki/index.php/Mem
 
+FREESP - Faster free space/dir listing: https://github.com/ChartreuseK/FREESP
+
+
 http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/dn2.html
 
 http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/doszip.html
@@ -175,9 +178,16 @@ prompt $e[1;32;40m  Z$_$e[33;43m   $e[40m$e[K$_$e[43m    $_
 
 https://kb.iu.edu/d/aamm
 
-## FONT
+## FONTS
 
 FONTEDIT: https://www.uselesssoftware.com/download/fontedit-zip
+
+FontEdit is a program which lets you to modify the font used in DOS Text mode with a VGA adapter. It provides a graphical interface in which you can modify the standard DOS font. It is mouse driven, and cannot be run without a mouse.
+
+
+https://github.com/viler-int10h/Fontraption
+
+https://github.com/viler-int10h/vga-text-mode-fonts
 
 
 # Hardware
@@ -417,3 +427,8 @@ Setup an FTP server, eg Xlight FTP Server
 ### INTERNET 
 
 https://github.com/tenox7/wrp
+
+
+
+
+https://github.com/ChartreuseK/VGASNOW
