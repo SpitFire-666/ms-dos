@@ -1,62 +1,12 @@
 <img src="https://user-images.githubusercontent.com/38451588/127482226-e67f4267-7245-4e89-8b6c-4aec09c49c5a.png" width="200" />
 
-https://www.vogons.org/viewtopic.php?f=24&t=82258
+# MS-DOS software
 
-http://reimagery.com/fsfd/#siteidx
-
-https://www.danielsays.com/ssg-dos.html
-
-http://www.dcee.net/Files/Graf/
-
-https://www.danielsays.com/ssg-dos-mace1.html
-
-https://www.danielsays.com/ssg-dos-fs.html
-
-https://www.vcfed.org/forum/forum/genres/pcs-and-clones/15399-ms-word-5-5-for-dos-for-free-legally?15238-MS-Word-5-5-for-DOS-for-FREE-(legally)=
-
-https://www.fltk.org/index.php
-
-https://winworldpc.com/product/pc-speaker-driver-wi/pc-speaker-driver-windows-31
-
-
-https://www.vogons.org/viewtopic.php?f=24&t=82258
-
-https://github.com/zerokelvinkeyboard/tachyonos
-
-https://sourceforge.net/projects/michalos/
-
- https://sourceforge.net/projects/zexos/
- 
- https://www.mdgx.com/dos.htm#DOS
- 
- NewDeal Office 3.2a
-
-
-http://www.doshaven.eu/released/2007/
+_Tools, info, links and resources for MS-DOS_
 
 
 
-https://archive.org/details/softwarelibrary_msdos_texteditors
-
-http://www.bttr-software.de/freesoft/
-
-https://www.uwe-sieber.de/english.html
-
-http://mpxplay.sourceforge.net/
-
-https://www.4dos.info/dalter.htm
-
-http://www.resoo.org/docs/dos/free_software/fileman1.htm
-
-http://ndn.muxe.com/
-
-http://dosprograms.info.tt/utils.htm
-
-https://archive.org/details/softwarelibrary_msdos
-
-http://www.reimagery.com/fsfd/#siteidx
-
-### System info
+# System info
 
 #### CPU
 
@@ -70,7 +20,7 @@ CHKCPU
 
 
 
-## Audio
+# Audio
 
 - http://www.reimagery.com/fsfd/sound.htm#midiplayers
 
@@ -88,7 +38,7 @@ CHKCPU
    PlayWAV 1.0 Quick playing of WAV files  | http://www.dreamlandbbs.com/sound/utils/playwav.zip
 
 
-## GUIs
+# GUIs
 
 - OpenGEM
 
@@ -99,7 +49,7 @@ CHKCPU
 https://github.com/jacobpalm/costa
 
 
-## Menus
+# Menus
 
 https://forums.launchbox-app.com/files/file/934-launchbox-for-ms-dos-special-edition/
 
@@ -107,7 +57,7 @@ https://github.com/alespergl/slr/releases/tag/v0.1
 
 
 
-## Alternatives
+# MS-DOS Tool Alternatives
 
 DOSKEY: Enhanced Doskey http://www.paulhoule.com/doskey/
 
@@ -153,7 +103,7 @@ http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/
 
 https://github.com/Baron-von-Riedesel/Jemm
 
-## Command Prompt
+# Command Prompt
 
 - Load ANSI
 config.sys
@@ -178,7 +128,7 @@ prompt $e[1;32;40m  Z$_$e[33;43m   $e[40m$e[K$_$e[43m    $_
 
 https://kb.iu.edu/d/aamm
 
-## FONTS
+# FONTS
 
 FONTEDIT: https://www.uselesssoftware.com/download/fontedit-zip
 
@@ -188,6 +138,9 @@ FontEdit is a program which lets you to modify the font used in DOS Text mode wi
 https://github.com/viler-int10h/Fontraption
 
 https://github.com/viler-int10h/vga-text-mode-fonts
+
+
+
 
 
 # Hardware
@@ -236,9 +189,84 @@ DOS Navigator
 
 
  
-## Networking 
+# Networking and Internet
+
+
+http://www.dendarii.co.uk/FAQs/dos-apps.html
+
+
+## SSH
 
 https://github.com/AnttiTakala/SSH2DOS/
+
+## Internet 
+
+https://github.com/jhhoward/MicroWeb
+
+
+https://github.com/tenox7/wrp
+
+
+## SMB Networking
+
+http://www.jacco2.dds.nl/samba/dos.html
+
+https://wiki.samba.org/index.php/Configuring_FreeDOS_to_Access_a_Samba_Share
+
+http://www.toughdev.com/content/2018/06/using-microsoft-network-client-3-0-for-ms-dos-with-modern-versions-of-windows/
+
+
+
+### Initialise NIC
+````
+C:\LAN\3C509.COM 0x60
+`````
+
+NET.EXE - http://www.ka9q.net/code/ka9qnos/
+
+
+https://syncterm.bbsdev.net/ -  SyncTERM is a BBS terminal program 
+
+
+### mTCP Setup
+
+- Env vars
+````batch
+SETMTCPCFG=C:\LAN\CONFIG.CFG
+````
+
+-  CONFIG.CFG
+````
+PACKETINT 0x60
+IPADDR 192.168.1.99
+NETMASK 255.255.255.0
+GATEWAY 192.168.1.1
+NAMESERVER 192.168.1.2
+````
+
+- DHCP.EXE - Get an IP
+````
+DCHP.EXE
+````
+
+- HTTPSERV.EXE
+
+Hosts a web page, eg http://192.168.1.50/index.htm
+
+````
+HTTPSERV -doc_root c:\lan
+````
+
+- FTP
+
+Setup an FTP server, eg Xlight FTP Server
+
+
+
+
+# UNSORTED
+
+https://github.com/ChartreuseK/VGASNOW
 
 Necromancer's DOS Navigator, 
 ems/xmsdsk, 
@@ -307,11 +335,12 @@ Arachne web browser:
 http://www.glennmcc.org/
 
 
-## Graphics
+# Graphics
+
 VMODE
  
  
-## GAMES
+# GAMES
 
 https://www.vogons.org/viewtopic.php?f=61&t=81589
 
@@ -363,72 +392,64 @@ http://www.petesqbsite.com/downloads/graphics.shtml
 
 https://www.tapatalk.com/groups/qbasic/download-qb64-demo-5-now-t36498.html
 
-## NETWORKING
 
 
-http://www.dendarii.co.uk/FAQs/dos-apps.html
-
-### SMB Networking
-
-http://www.jacco2.dds.nl/samba/dos.html
-
-https://wiki.samba.org/index.php/Configuring_FreeDOS_to_Access_a_Samba_Share
-
-http://www.toughdev.com/content/2018/06/using-microsoft-network-client-3-0-for-ms-dos-with-modern-versions-of-windows/
+# References 
 
 
+https://www.vogons.org/viewtopic.php?f=24&t=82258
+
+http://reimagery.com/fsfd/#siteidx
+
+https://www.danielsays.com/ssg-dos.html
+
+http://www.dcee.net/Files/Graf/
+
+https://www.danielsays.com/ssg-dos-mace1.html
+
+https://www.danielsays.com/ssg-dos-fs.html
+
+https://www.vcfed.org/forum/forum/genres/pcs-and-clones/15399-ms-word-5-5-for-dos-for-free-legally?15238-MS-Word-5-5-for-DOS-for-FREE-(legally)=
+
+https://www.fltk.org/index.php
+
+https://winworldpc.com/product/pc-speaker-driver-wi/pc-speaker-driver-windows-31
 
 
-### Initialise NIC
-````
-C:\LAN\3C509.COM 0x60
-`````
+https://www.vogons.org/viewtopic.php?f=24&t=82258
 
-NET.EXE - http://www.ka9q.net/code/ka9qnos/
+https://github.com/zerokelvinkeyboard/tachyonos
 
+https://sourceforge.net/projects/michalos/
 
-https://syncterm.bbsdev.net/ -  SyncTERM is a BBS terminal program 
-
-
-### mTCP Setup
-
-- Env vars
-````batch
-SETMTCPCFG=C:\LAN\CONFIG.CFG
-````
-
--  CONFIG.CFG
-````
-PACKETINT 0x60
-IPADDR 192.168.1.99
-NETMASK 255.255.255.0
-GATEWAY 192.168.1.1
-NAMESERVER 192.168.1.2
-````
-
-- DHCP.EXE - Get an IP
-````
-DCHP.EXE
-````
-
-- HTTPSERV.EXE
-
-Hosts a web page, eg http://192.168.1.50/index.htm
-
-````
-HTTPSERV -doc_root c:\lan
-````
-
-- FTP
-
-Setup an FTP server, eg Xlight FTP Server
+ https://sourceforge.net/projects/zexos/
+ 
+ https://www.mdgx.com/dos.htm#DOS
+ 
+ NewDeal Office 3.2a
 
 
-### INTERNET 
-
-https://github.com/tenox7/wrp
+http://www.doshaven.eu/released/2007/
 
 
 
+https://archive.org/details/softwarelibrary_msdos_texteditors
 
-https://github.com/ChartreuseK/VGASNOW
+http://www.bttr-software.de/freesoft/
+
+https://www.uwe-sieber.de/english.html
+
+http://mpxplay.sourceforge.net/
+
+https://www.4dos.info/dalter.htm
+
+http://www.resoo.org/docs/dos/free_software/fileman1.htm
+
+http://ndn.muxe.com/
+
+http://dosprograms.info.tt/utils.htm
+
+https://archive.org/details/softwarelibrary_msdos
+
+http://www.reimagery.com/fsfd/#siteidx
+
