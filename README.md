@@ -19,6 +19,8 @@ CHKCPU
 ![image](https://user-images.githubusercontent.com/38451588/133178127-07499414-f1ad-4479-b9e8-80958b0a954f.png)
 
 
+http://www.reimagery.com/fsfd/screen.htm#screenmode
+
 
 # Audio
 
@@ -36,6 +38,8 @@ CHKCPU
    
    
    PlayWAV 1.0 Quick playing of WAV files  | http://www.dreamlandbbs.com/sound/utils/playwav.zip
+   
+   DOSMid | http://dosmid.sourceforge.net/
 
 
 # GUIs
@@ -125,6 +129,13 @@ prompt $e[1;32;40m  Z$_$e[33;43m   $e[40m$e[K$_$e[43m    $_
   5m11 1\]$_$e[32;5mx x x x x x   x$e[0;1;44;37m$e[1A$p$g
 ````
 
+
+https://retrocomputing.stackexchange.com/questions/11073/set-screen-resolution-in-dos-only-pc
+
+
+Boot menu
+
+https://retrocomputing.stackexchange.com/questions/6801/how-do-i-create-a-boot-menu-to-select-between-windows-and-dos/6802#6802
 
 https://kb.iu.edu/d/aamm
 
