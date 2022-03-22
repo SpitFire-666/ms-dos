@@ -464,3 +464,7 @@ https://archive.org/details/softwarelibrary_msdos
 
 http://www.reimagery.com/fsfd/#siteidx
 
+
+https://www.tindie.com/products/theoldnet/rs232-serial-wifi-modem-for-vintage-computers-v3/
+
+https://www.youtube.com/watch?v=S35-jFSMEf8
