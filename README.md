@@ -30,16 +30,14 @@ http://www.reimagery.com/fsfd/screen.htm#screenmode
 
 - https://www.vogons.org/viewtopic.php?f=24&t=37630
 
- MIDIplay - Play MIDI files through PC speaker.
- 
-  SBPlay - SND, VOC, WAV, AIF, IFF, RAW sound files player – no sound card required | ftp://ftp.externet.hu/pub/mirror/sac/sound/sbply258.zip
-  
-   LxVox - Tiny WAV file player (8-bit mono), no sound card required. | http://hplx.pgdn.de/lxvox.zip
-   
-   
-   PlayWAV 1.0 Quick playing of WAV files  | http://www.dreamlandbbs.com/sound/utils/playwav.zip
-   
-   DOSMid | http://dosmid.sourceforge.net/
+ |--|---|--|
+ | | | | |
+ |--|--|--|--|
+ |MIDIplay | Play MIDI files through PC speaker  |     MIDIplay is a freeware 19K DOS program which plays a MIDI file through a PC's internal speaker. Output is monophonic  | no working links found |
+ |SBPlay | SND, VOC, WAV, AIF, IFF, RAW sound files player – no sound card required  | | ftp://ftp.externet.hu/pub/mirror/sac/sound/sbply258.zip |
+ | LxVox - Tiny WAV file player (8-bit mono), no sound card required. | http://hplx.pgdn.de/lxvox.zip | | |
+ | PlayWAV 1.0 Quick playing of WAV files  | http://www.dreamlandbbs.com/sound/utils/playwav.zip | | | 
+ | DOSMid | http://dosmid.sourceforge.net/ | | |
 
 
 # GUIs
@@ -389,6 +387,7 @@ https://www.vogons.org/viewtopic.php?f=61&t=82495
 - https://www.youtube.com/c/dosnostalgic/videos
 
 ## DEMOS
+
 https://www.dropbox.com/s/df1h2w2zapo2kpv/crystfix.zip?dl=0
 
 http://www.oldskool.org/demos/explained/demo_reviews.html
@@ -400,8 +399,6 @@ https://www.youtube.com/watch?v=sqy7Xfklo7w
 https://forum.thegamecreators.com/thread/222397
 
 http://www.petesqbsite.com/downloads/graphics.shtml
-
-https://www.tapatalk.com/groups/qbasic/download-qb64-demo-5-now-t36498.html
 
 
 
