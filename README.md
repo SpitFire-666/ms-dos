@@ -112,6 +112,11 @@ config.sys
 ````
   DEVICE = C:\DOS\ANSI.SYS
   ````
+PROMPT $e[1;32m$p$g$e[m  
+
+![image](https://user-images.githubusercontent.com/38451588/175847189-2f360671-7655-4490-870f-29378812acf2.png)
+
+  
 - Merry Christmas
 ````
 prompt $e[1;5;37m  *$_$e[0;32;40m  1$_ $e[1;31;42m u $_$e[33;42m
