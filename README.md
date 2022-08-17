@@ -5,8 +5,11 @@
 _Tools, info, links and resources for MS-DOS_
 
 
-
 # System info
+
+#### Virtual/protected mode
+ 
+ - To use real mode, comment out HIMEM.SYS from config.sys and reboot
 
 #### CPU
 
