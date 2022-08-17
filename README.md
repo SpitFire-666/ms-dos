@@ -1,9 +1,24 @@
 <img src="https://user-images.githubusercontent.com/38451588/127482226-e67f4267-7245-4e89-8b6c-4aec09c49c5a.png" width="200" />
 
-# MS-DOS software
+# MS-DOS stuff
 
 _Tools, info, links and resources for MS-DOS_
 
+
+## Recommended software
+
+|SOFTWARE |Desc|c|d|
+|-|-|-|-|
+| EIDL  | Places CPU in a HALT state when DOS is idle | |  |
+| DOSKEY (enhanced!) | With tab autocompletion and other great stuff | http://www.paulhoule.com/doskey/| | 
+| Blackout v2.00 | Screen blanker/saver | | |
+| UNISOUND | | | 
+| FastDOOM | | | 
+| CuteMouse | Mouse Driver | | |
+| DOSMid | Midi Player | | |
+| Norton Commander | | | 
+| PlayWAV | http://www.fysnet.net | | |
+| Treesize | | | 
 
 # System info
 
@@ -64,7 +79,7 @@ https://github.com/alespergl/slr/releases/tag/v0.1
 
 # MS-DOS Tool Alternatives
 
-DOSKEY: Enhanced Doskey http://www.paulhoule.com/doskey/
+
 
 EDIT: Edit http://wiki.freedos.org/wiki/index.php/Edit
 
@@ -245,15 +260,19 @@ NET.EXE - http://www.ka9q.net/code/ka9qnos/
 https://syncterm.bbsdev.net/ -  SyncTERM is a BBS terminal program 
 
 
-### mTCP Setup
+### mTCP
 
-- Env vars
+http://www.brutman.com/mTCP/mTCP.html
+
+### Setup
+
+- Create Environment var
 ````batch
 SETMTCPCFG=C:\LAN\CONFIG.CFG
 ````
 
--  CONFIG.CFG
-````
+- create CONFIG.CFG file (in the folder that SETMTCPCFG points to)
+````batch
 PACKETINT 0x60
 IPADDR 192.168.1.99
 NETMASK 255.255.255.0
