@@ -177,6 +177,14 @@ https://github.com/viler-int10h/vga-text-mode-fonts
 
 # Hardware
 
+
+
+## ISA USB adapter (incl mass storage)
+
+http://www.toughdev.com/content/2018/04/usb-flash-drives-on-8-bit-isa-bus-using-ch375-isb-to-usb-adapter/
+
+https://www.vogons.org/viewtopic.php?f=46&t=43311
+
 https://monotech.fwscart.com/XTCFMini_Bootable_8bit_ISA_CF_Card_Interface/p6083514_19478750.aspx
 
 
