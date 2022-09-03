@@ -154,7 +154,7 @@ prompt $e[1;32;40m  Z$_$e[33;43m   $e[40m$e[K$_$e[43m    $_
 https://retrocomputing.stackexchange.com/questions/11073/set-screen-resolution-in-dos-only-pc
 
 
-Boot menu
+## Boot menu
 
 https://retrocomputing.stackexchange.com/questions/6801/how-do-i-create-a-boot-menu-to-select-between-windows-and-dos/6802#6802
 
@@ -247,6 +247,7 @@ https://github.com/AnttiTakala/SSH2DOS/
 
 https://github.com/jhhoward/MicroWeb
 
+https://github.com/DrKylstein/retro-proxy -  A https to http proxy that allow old browsers to access modern sites, with conversion and compression options. 
 
 https://github.com/tenox7/wrp
 
