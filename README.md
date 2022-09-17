@@ -321,7 +321,7 @@ Necromancer's DOS Navigator,
 ems/xmsdsk, 
 mfplay, 
 pkzip, 
-mTCP (not so retro but yeah) and ofcourse the 
+
 
 cd-emulation programs fakecd/fakedr so I don't have to mess with disks...
  
@@ -331,7 +331,7 @@ https://www.vogons.org/viewtopic.php?f=24&t=63514
  
 ### Graphics, Pictures, and Publishing
 - Micrografx Designer (poor man's CorelDraw, but even better IMHO)
-- Paint Shop Pro (poor man's Photoshop, well sorta..😁)
+- Paint Shop Pro
 - ACDSee
 - Sea Graphics Viewer with support for high resolution video modes. http://www.dcee.net/Files/Graf/sea11gfx.zip
 - QPEG-386 (DOS image viewer, VESA support)
@@ -340,7 +340,6 @@ https://www.vogons.org/viewtopic.php?f=24&t=63514
 - ShowJPG http://www.pictview.com/showjpg.zip
 - PixView http://www.cs.unibo.it/~rossi/pixview/pixv23.zip
 - LWhiz ftp://ftp.sac.sk/sac/graph/lwhiz.zip
-- 
 - PrintMaster and BannerMania (kind of a very basic publishing programs (banners, greeting cards, etc.)
 
 ### Office:
@@ -373,7 +372,6 @@ https://www.vogons.org/viewtopic.php?f=24&t=63514
 - Volkov Commander 
 - Electronics Workbench
 - TreeSize: http://www.cnd.org/HYPLAN/yawei/freesoft.html
- 
  
  https://www.vogons.org/viewtopic.php?f=63&t=58922
  
@@ -440,6 +438,11 @@ https://forum.thegamecreators.com/thread/222397
 
 http://www.petesqbsite.com/downloads/graphics.shtml
 
+# Convert a VirtualBox VM to a physical disk
+
+```
+"C:\Program Files\Oracle\VirtualBox\vboxmanage" internalcommands converttoraw DOS-256MB.vdi DOS-256.img
+```
 
 
 # References 
