@@ -130,54 +130,31 @@ $e[xx;yy;zzm
 
 where xx = attribute code, yy = foreground color code, and zz = background color code.
 
-​
-
+```
 0 Turn Off Attributes
-
 1 High Intensity
-
 2 Normal Intensity
-
 4 Underline (mono only)
-
 5 Blink
-
 7 Reverse Video
-
 8 Invisible
-
 30 Black
-
 31 Red
-
 32 Green
-
 33 Yellow
-
 34 Blue
-
 35 Magenta
-
 36 Cyan
-
 37 White
-
 40 Black
-
 41 Red
-
 42 Green
-
 43 Yellow
-
 44 Blue
-
 45 Magenta
-
 46 Cyan
-
 47 White
-
+```
 
 - Load ANSI
 config.sys
