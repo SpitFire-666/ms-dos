@@ -13,13 +13,13 @@ _Tools, info, links and resources for MS-DOS_
 | DOSKEY (enhanced!) | With tab autocompletion and other great stuff | http://www.paulhoule.com/doskey/| | 
 | Blackout v2.00 | Screen blanker/saver | | |
 | UNISOUND | UNISOUND is a Freeware DOS-only tool useful to configure and initialize ISA PnP sound cards from serveral brands and models, like ESS, Creative, ALS, CMI, ADI, Yamaha, Diamond tech, Aztech, OPTi, Crystal, community-made ones like Orpheus, AWE64 Legacy... (And also some non-PnP cards, like early SB16 software configurable models which required DIAGNOSE.EXE, are supported). Works on all x86 CPUs (8088/8086/286/386... and higher). Check the TXT included in the ZIP file for full details. To get command line help, use: UNISOUND /H | https://www.vogons.org/viewtopic.php?f=62&t=72553 | 
-| FastDOOM | | | 
+| FastDOOM |  Doom port for DOS, optimized to be as fast as possible!  | https://github.com/viti95/FastDoom | 
 | CuteMouse | Mouse Driver | | |
 | DOSMid | Midi Player | | |
 | Norton Commander | | | 
 | PlayWAV | http://www.fysnet.net | | |
 | Treesize | | | 
-|  EtherDFS - a network drive for DOS | https://www.vogons.org/viewtopic.php?f=24&t=52260
+|  EtherDFS | a network drive for DOS | https://www.vogons.org/viewtopic.php?f=24&t=52260 |
 
 # System info
 
