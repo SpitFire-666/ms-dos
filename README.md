@@ -9,7 +9,7 @@ _Tools, info, links and resources for MS-DOS_
 
 |SOFTWARE |Desc|c|d|
 |-|-|-|-|
-| EIDL  | Places CPU in a HALT state when DOS is idle | |  |
+| EIDL | Places CPU in a HALT state when DOS is idle | https://www.bttr-software.de/products/eidl/ |  |
 | DOSKEY (enhanced!) | With tab autocompletion and other great stuff | http://www.paulhoule.com/doskey/| | 
 | Blackout v2.00 | Screen blanker/saver | | |
 | UNISOUND | UNISOUND is a Freeware DOS-only tool useful to configure and initialize ISA PnP sound cards from serveral brands and models, like ESS, Creative, ALS, CMI, ADI, Yamaha, Diamond tech, Aztech, OPTi, Crystal, community-made ones like Orpheus, AWE64 Legacy... (And also some non-PnP cards, like early SB16 software configurable models which required DIAGNOSE.EXE, are supported). Works on all x86 CPUs (8088/8086/286/386... and higher). Check the TXT included in the ZIP file for full details. To get command line help, use: UNISOUND /H | https://www.vogons.org/viewtopic.php?f=62&t=72553 | 
@@ -19,6 +19,7 @@ _Tools, info, links and resources for MS-DOS_
 | Norton Commander | | | 
 | PlayWAV | http://www.fysnet.net | | |
 | Treesize | | | 
+|  EtherDFS - a network drive for DOS | https://www.vogons.org/viewtopic.php?f=24&t=52260
 
 # System info
 
@@ -73,8 +74,11 @@ https://github.com/jacobpalm/costa
 
 https://forums.launchbox-app.com/files/file/934-launchbox-for-ms-dos-special-edition/
 
+## 
 https://github.com/alespergl/slr/releases/tag/v0.1
 
+## RLoader
+https://github.com/marco-sacchi/RLoader
 
 
 # MS-DOS Tool Alternatives
@@ -211,11 +215,7 @@ https://github.com/viler-int10h/Fontraption
 https://github.com/viler-int10h/vga-text-mode-fonts
 
 
-
-
-
 # Hardware
-
 
 
 ## ISA USB adapter (incl mass storage)
@@ -542,7 +542,6 @@ http://dosprograms.info.tt/utils.htm
 https://archive.org/details/softwarelibrary_msdos
 
 http://www.reimagery.com/fsfd/#siteidx
-
 
 https://www.tindie.com/products/theoldnet/rs232-serial-wifi-modem-for-vintage-computers-v3/
 
