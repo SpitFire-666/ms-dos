@@ -72,6 +72,12 @@ https://github.com/jacobpalm/costa
 
 # Menus
 
+|SOFTWARE |Desc|c|d|
+|-|-|-|-|
+| Moo | Doesn't support LFNs (trips up on ~ character which it uses for internal purposes | | |
+| 
+
+
 https://forums.launchbox-app.com/files/file/934-launchbox-for-ms-dos-special-edition/
 
 ## 
