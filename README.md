@@ -14,8 +14,8 @@ _Tools, info, links and resources for MS-DOS_
 | Blackout | Screen blanker/saver | Note: place this into a non-"blackout" subfolder otherwise autoexec.bat will not process its parameters correctly. Eg use ```C:\apps\blackout.exe 12``` in ```autoexec.bat``` | |
 | UNISOUND | UNISOUND is a Freeware DOS-only tool useful to configure and initialize ISA PnP sound cards from serveral brands and models, like ESS, Creative, ALS, CMI, ADI, Yamaha, Diamond tech, Aztech, OPTi, Crystal, community-made ones like Orpheus, AWE64 Legacy... (And also some non-PnP cards, like early SB16 software configurable models which required DIAGNOSE.EXE, are supported). Works on all x86 CPUs (8088/8086/286/386... and higher) | https://www.vogons.org/viewtopic.php?f=62&t=72553 | 
 | FastDOOM |  Doom port for DOS, optimized to be as fast as possible!  | https://github.com/viti95/FastDoom | 
-| CuteMouse | Mouse Driver | | |
-| DOSMid | Midi Player | | |
+| [CuteMouse](https://sourceforge.net/projects/cutemouse/) | CuteMouse is a DOS based, open source mouse driver, which supports many protocols of serial and PS/2 mice. It can search for a serial mouse at all COM ports or only at a specified port. An important CuteMouse feature is its small memory footprint: the resident part (TSR) occupies less than 3.5kb. CuteMouse can also install itself in upper memory, when available, without requiring external utilities such as the LH (LoadHigh) command. Modern BIOSes often make USB mice visible through the PS/2 interface if you enable "legacy" support in BIOS setup. | | |
+| DOSMid | Midi Player | | This is the only Midi player that works for me |
 | Norton Commander | | | 
 | PlayWAV | http://www.fysnet.net | | |
 | Treesize | | | 
