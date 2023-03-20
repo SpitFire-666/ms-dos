@@ -7,12 +7,12 @@ _Tools, info, links and resources for MS-DOS_
 
 ## Recommended software
 
-|SOFTWARE |Desc|c|d|
+|SOFTWARE |Desc|Notes|d|
 |-|-|-|-|
-| EIDL | Places CPU in a HALT state when DOS is idle | https://www.bttr-software.de/products/eidl/ |  |
+| EIDL | Places CPU in a HALT state when DOS is idle, allowing the CPU to run cooler | https://www.bttr-software.de/products/eidl/ |  |
 | DOSKEY (enhanced!) | With tab autocompletion and other great stuff | http://www.paulhoule.com/doskey/| | 
-| Blackout v2.00 | Screen blanker/saver | | |
-| UNISOUND | UNISOUND is a Freeware DOS-only tool useful to configure and initialize ISA PnP sound cards from serveral brands and models, like ESS, Creative, ALS, CMI, ADI, Yamaha, Diamond tech, Aztech, OPTi, Crystal, community-made ones like Orpheus, AWE64 Legacy... (And also some non-PnP cards, like early SB16 software configurable models which required DIAGNOSE.EXE, are supported). Works on all x86 CPUs (8088/8086/286/386... and higher). Check the TXT included in the ZIP file for full details. To get command line help, use: UNISOUND /H | https://www.vogons.org/viewtopic.php?f=62&t=72553 | 
+| Blackout | Screen blanker/saver | Note: place this into a non-"blackout" subfolder otherwise autoexec.bat will not process its parameters correctly. Eg use ```C:\apps\blackout.exe 12``` in ```autoexec.bat``` | |
+| UNISOUND | UNISOUND is a Freeware DOS-only tool useful to configure and initialize ISA PnP sound cards from serveral brands and models, like ESS, Creative, ALS, CMI, ADI, Yamaha, Diamond tech, Aztech, OPTi, Crystal, community-made ones like Orpheus, AWE64 Legacy... (And also some non-PnP cards, like early SB16 software configurable models which required DIAGNOSE.EXE, are supported). Works on all x86 CPUs (8088/8086/286/386... and higher) | https://www.vogons.org/viewtopic.php?f=62&t=72553 | 
 | FastDOOM |  Doom port for DOS, optimized to be as fast as possible!  | https://github.com/viti95/FastDoom | 
 | CuteMouse | Mouse Driver | | |
 | DOSMid | Midi Player | | |
