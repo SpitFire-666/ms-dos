@@ -135,10 +135,10 @@ https://github.com/Baron-von-Riedesel/Jemm
 
 # Command Prompt
 
-
+```
 $e[xx;yy;zzm
-
-where xx = attribute code, yy = foreground color code, and zz = background color code.
+```
+xx = attribute code, yy = background color code, and zz = foreground color code.
 
 ```
 0 Turn Off Attributes
@@ -225,6 +225,8 @@ https://github.com/viler-int10h/vga-text-mode-fonts
 
 
 ## ISA USB adapter (incl mass storage)
+
+https://www.youtube.com/watch?v=cgtvVi_mjjg
 
 ### updated driver (faster)
 
