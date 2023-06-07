@@ -226,7 +226,13 @@ https://github.com/viler-int10h/vga-text-mode-fonts
 
 ## ISA USB adapter (incl mass storage)
 
+![image](https://github.com/SpitFire-666/ms-dos/assets/38451588/b1a6d704-22dd-4b91-8fe9-d513659c8f4a)
+
+
 https://www.youtube.com/watch?v=cgtvVi_mjjg
+
+### Bracket
+https://www.thingiverse.com/thing:5350142
 
 ### updated driver (faster)
 
@@ -239,7 +245,7 @@ https://www.vogons.org/viewtopic.php?f=46&t=43311
 https://monotech.fwscart.com/XTCFMini_Bootable_8bit_ISA_CF_Card_Interface/p6083514_19478750.aspx
 
 
-parallel-port, Ethernet-to-WiFi connectivity.
+## parallel-port, Ethernet-to-WiFi connectivity.
 
 ## 🐁 Mouse
 
