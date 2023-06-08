@@ -72,10 +72,13 @@ https://github.com/jacobpalm/costa
 
 # Menus
 
-|SOFTWARE |Desc|c|d|
+| Screenshot | Menu Software| Info | Comment|
 |-|-|-|-|
-| Moo | Doesn't support LFNs (trips up on ~ character which it uses for internal purposes | | |
-| 
+| ![image](https://github.com/SpitFire-666/ms-dos/assets/38451588/7bfb9e41-fe31-43c1-8dd6-56e4d8e7cd61) | Moo | Doesn't support LFNs (trips up on ```~``` character which it uses for internal purposes | https://archive.org/details/moo31 |
+| ![image](https://github.com/SpitFire-666/ms-dos/assets/38451588/79ac1988-8cb5-4e7c-80e1-61046770264f) | RLoader | | |
+| | AutoMenu | | |
+
+
 
 
 https://forums.launchbox-app.com/files/file/934-launchbox-for-ms-dos-special-edition/
