@@ -141,7 +141,7 @@ http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/
 
 https://github.com/Baron-von-Riedesel/Jemm
 
-# Command Prompt
+# Prompt
 
 ```
 $e[xx;yy;zzm
@@ -179,10 +179,15 @@ config.sys
 ````
   DEVICE = C:\DOS\ANSI.SYS
   ````
-PROMPT $e[1;32m$p$g$e[m  
+```PROMPT $e[1;32m$p$g$e[m ```
 
 ![image](https://user-images.githubusercontent.com/38451588/175847189-2f360671-7655-4490-870f-29378812acf2.png)
 
+```PROMPT $e[1;32m$p$g$e[m```
+
+```PROMPT $e[1;31M$p$g$e[0;32m```
+
+![image](https://github.com/SpitFire-666/ms-dos/assets/38451588/0f6bc6ed-e41d-4aec-be24-072183fa9fc7)
 
 INVERTED
   PROMPT $e[7;10m$p$g$e[m  
