@@ -27,6 +27,8 @@ _Tools, info, links and resources for MS-DOS_
 
 ```F8```
 
+#### Backup/copy folder
+```xcopy "C:\SomeFolderName" "D:\SomeFolderName" /h /i /c /k /e /r /y```
 
 #### Virtual/protected mode
  
