@@ -28,7 +28,8 @@ _Tools, info, links and resources for MS-DOS_
 ```F8```
 
 #### Backup/copy folder
-```xcopy "C:\SomeFolderName" "D:\SomeFolderName" /h /i /c /k /e /r /y```
+- Copies subfolders (/s) including empty ones (/e)
+```xcopy "C:\SomeFolderName" "D:\SomeFolderName" /s /e```
 
 #### Virtual/protected mode
  
