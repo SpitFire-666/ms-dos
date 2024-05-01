@@ -144,9 +144,16 @@ http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/
 
 https://github.com/Baron-von-Riedesel/Jemm
 
-# Prompt
+# Prompt Customisation
 
+ANSI.SYS required to be loaded!
+
+- Coloured prompt
+  ```$e[37m $p ```
 ```
+
+
+
 $e[xx;yy;zzm
 ```
 xx = attribute code, yy = background color code, and zz = foreground color code.
