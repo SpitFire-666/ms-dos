@@ -20,7 +20,7 @@ _Tools, info, links and resources for MS-DOS_
 | PlayWAV | http://www.fysnet.net | | |
 | Treesize | | | 
 |  EtherDFS | a network drive for DOS | https://www.vogons.org/viewtopic.php?f=24&t=52260 |
-| Speedsys, Checkit | Memory/RAM stress test | |
+| Speedsys, Checkit | Memory/RAM stress test. Note that Speedsys locks up/doesn't like protected mode | |
 # System info
 
 #### Process config.sys line by line (and also skip processing of autoexec.bat)
