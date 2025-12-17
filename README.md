@@ -7,7 +7,7 @@ _Tools, info, links and resources for MS-DOS_
 
 ## Recommended software
 
-|SOFTWARE |Desc|Notes|d|
+| SOFTWARE |Desc|Notes|d|
 |-|-|-|-|
 | EIDL | Places CPU in a HALT state when DOS is idle, allowing the CPU to run cooler | https://www.bttr-software.de/products/eidl/ |  |
 | DOSKEY (enhanced!) | With tab autocompletion and other great stuff | http://www.paulhoule.com/doskey/| | 
@@ -20,7 +20,7 @@ _Tools, info, links and resources for MS-DOS_
 | PlayWAV | http://www.fysnet.net | | |
 | Treesize | | | 
 |  EtherDFS | a network drive for DOS | https://www.vogons.org/viewtopic.php?f=24&t=52260 |
-
+| Speedsys, Checkit | Memory/RAM stress test | |
 # System info
 
 #### Process config.sys line by line (and also skip processing of autoexec.bat)
